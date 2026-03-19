@@ -26,6 +26,7 @@ main {
 
 img {
     width: 400px;
+    height: auto;
 }
 
 .imagem-logo {
@@ -73,7 +74,7 @@ h2 {
     
     display: flex;
     width: min(90%, 800px);
-    padding: 16px 0;
+    padding: 16px 8px;
     gap: 8px;
     
     margin: 16px auto;

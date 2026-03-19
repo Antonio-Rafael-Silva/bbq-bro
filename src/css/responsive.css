@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+
+    .boxProduto {
+        flex-direction: column;
+    }
+
+    .boxTexto {
+        align-items: center;
+        text-align: justify;
+    }
+
+}
